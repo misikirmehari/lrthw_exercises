@@ -5,6 +5,18 @@
     * Third Skill: Spotting differences
 
 2. Please explain these three skills in your own words.
+    * Reading and Writing : Writing codes require a special typing 
+      skill especially with odd characters and learning this skill is 
+      on of the essiential skills.
+    
+    * Attention to detail : This skill is essential since as a programmer 
+      one should always be aware of the simple details. For example, 
+      missing a semicolon can impact the whole program and will make 
+      the whole program not to compile. By giving attention to the 
+      thinnest details helps to fix bugs like this in an easy manner.
+    
+    * Spotting differences
+      
 
 3. Why do you need to not copy and paste?
 
