@@ -27,3 +27,7 @@
       and pasting codes into our compiler/ program.
 
 4. Why is Practice and Persistence important?
+    * Practicing something over a period of time helps improve ones' skill
+      Even if the subject matter seems odd or difficult at first , not 
+      giving up and constant practice helps to acquire a certain skill.
+      This is also true for programming and learning a new language.
