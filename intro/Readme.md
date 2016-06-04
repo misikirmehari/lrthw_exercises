@@ -15,9 +15,15 @@
       the whole program not to compile. By giving attention to the 
       thinnest details helps to fix bugs like this in an easy manner.
     
-    * Spotting differences
+    * Spotting differences: Through coding and experience, one will 
+      develop a skill where it is easier to notice changes and see the 
+      difference between two codes. This is a skill that can be developed 
+      through practice.
       
 
 3. Why do you need to not copy and paste?
+    * Copying and pasting makes the whole learning process invalid. The 
+      way to learn programming is by typing codes and not directly coping 
+      and pasting codes into our compiler/ program.
 
 4. Why is Practice and Persistence important?
